@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Macbook Air",
+    "category": "Electronics",
+    "price": 115000,
+    "brand": "Apple",
+    "specifications": {
+      "warranty_years": 1,
+      "voltage": "110-240V",
+      "ram_gb": 16,
+      "storage": "512GB SSD"
+    },
+    "tags": ["work", "high-performance"]
+  },
+  {
+    "name": "Raincoat",
+    "category": "Clothing",
+    "price": 1200,
+    "brand": "Cliff Climbers",
+    "attributes": {
+      "material": "Plastic Polymer",
+      "sizes": ["S", "M", "L", "XL"],
+      "color": "Charcoal Grey",
+      "care": "Machine wash"
+    }
+  },
+  {
+    "name": "Cheetos Masala Balls",
+    "category": "Groceries",
+    "price": 50,
+    "brand": "Cheetos",
+    "expiry_date": "2024-09-01",
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 10,
+      "fat_g": 5,
+      "allergens": ["Chilli"]
+    },
+    "is_perishable": true
+  }
+]
